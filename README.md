@@ -1,5 +1,5 @@
-## pizza-sales-analysis
-Pizza Sales Analysis using SQL and Google Sheets
+## pizza-sales-analysisp-Google-Sheets
+
 - **Project Objective:**
 
   1. Analyze one year of pizza sales data using SQL.
