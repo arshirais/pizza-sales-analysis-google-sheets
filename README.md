@@ -3,7 +3,7 @@ Pizza Sales Analysis using SQL and Google Sheets
 - **Project Objective:**
 
   1. Analyze one year of pizza sales data using SQL.
-  2. Build a sales dashboard [Pizza Sales Dashboard (Google Sheets)](https://docs.google.com/spreadsheets/d/1WQfSI3gSeaR4InMu1ScG9s3M0kwy_X1ExUNsTLP9GGg/edit?gid=1503815024#gid=1503815024) to visualize KPIs,
+  2. Build a sales dashboard [Pizza Sales Dashboard (Google Sheets)](https://github.com/arshirais/pizza-sales-analysis-google-sheets/blob/main/Project_%20Pizza%20sales%20analysis%20-%20dashboard.pdf) to visualize KPIs,
       sales trends, and   product performance. in Google Sheets to visualize KPIs, sales trends, and product performance.
   4. Generate actionable business insights to support data-driven decision-making.
 
