@@ -3,9 +3,9 @@
 - **Project Objective:**
 
   1. Analyze one year of pizza sales data using SQL.
-  2. Build a sales dashboard [Pizza Sales Dashboard (Google Sheets)](https://github.com/arshirais/pizza-sales-analysis-google-sheets/blob/main/Project_%20Pizza%20sales%20analysis%20-%20dashboard.pdf) to visualize KPIs,
-      sales trends, and   product performance. in Google Sheets to visualize KPIs, sales trends, and product performance.
-  4. Generate actionable business insights to support data-driven decision-making.
+  2. Build a sales dashboard [Pizza Sales Dashboard (Google Sheets)](https://github.com/arshirais/pizza-sales-analysis-google-sheets/blob/main/Project_%20Pizza%20sales%20analysis%20-%20dashboard.pdf)
+     to visualize KPIs, sales trends, and   product performance. in Google Sheets to visualize KPIs, sales trends, and product performance.
+  3. Generate actionable business insights to support data-driven decision-making.
 
 - **Purpose of sales analytics:** Monitor sales performance, evaluate key business metrics, and identify customer purchasing patterns.
 
